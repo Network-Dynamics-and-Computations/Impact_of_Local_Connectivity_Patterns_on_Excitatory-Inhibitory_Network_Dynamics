@@ -12,6 +12,6 @@ For the generation of true Sparse network with second-order motifs, we uses sone
 --L. Zhao, B. Beverlin II, T. Netoff, and D. Q. Nykamp. "Synchronization from second-order network connectivity statistics." Frontiers in Computational Neuroscience, 5:28, 2011.
 You can access the source code for SONETs at the following GitHub repository, which is available under the GPL-3.0 license: https://github.com/dqnykamp/sonets#GPL-3.0-1-ov-file.
 
-Pre-generated data that can be re-loaded and used to re-generated Figures is in https://www.dropbox.com/scl/fo/jbo2m59tpsvz2mzkpq8q6/AMN-YXiFLY1A872MWzgzsiQ?rlkey=0l2yyw95ycp76ycb83mmh6h5z&st=eyqizsb1&dl=0 .
+Pre-generated data that can be re-loaded and used to re-generate the main Figures is in https://www.dropbox.com/scl/fo/jbo2m59tpsvz2mzkpq8q6/AMN-YXiFLY1A872MWzgzsiQ?rlkey=0l2yyw95ycp76ycb83mmh6h5z&st=eyqizsb1&dl=0 .
 
 In case of any questions, requests, or problems, please feel free to contact me (ivyerosion@gmail.com)
