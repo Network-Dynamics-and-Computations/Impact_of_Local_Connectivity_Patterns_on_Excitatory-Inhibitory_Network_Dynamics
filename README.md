@@ -1,5 +1,5 @@
 # LocalChainMotifs_ParadoxicalEffect
- This repository provides the code to reproduce the corresponding figures in the main text of the paper “Identifying the impact of local connectivity patterns on dynamics in excitatory-inhibitory networks”.
+ This repository provides the code to reproduce the corresponding figures in the main text of the paper “[Impact of Local Connectivity Patterns on Excitatory-Inhibitory Network Dynamics](https://link.aps.org/doi/10.1103/PRXLife.3.023008)”.
 
 Please run the Jupyter notebook files starting with 'Fig**_'. The parameters for each case are specified within the manuscript, and you may need to manually adjust them. Some figures can be generated using a single notebook with the same network parameters (e.g., Fig2_5_6_Gaussian_matrix.ipynb generates Figures 2, 5, and 6).
 
